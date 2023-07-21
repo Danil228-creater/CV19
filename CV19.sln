@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D55E4114
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СV19Console", "Tests\СV19Console\СV19Console.csproj", "{E796BCAE-1F93-49F8-A7EB-1EFDDC9A6C70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CV19WPF", "Tests\CV19WPF\CV19WPF.csproj", "{4E4BF8CF-C033-4320-86FF-159951E50763}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{E796BCAE-1F93-49F8-A7EB-1EFDDC9A6C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E796BCAE-1F93-49F8-A7EB-1EFDDC9A6C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E796BCAE-1F93-49F8-A7EB-1EFDDC9A6C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4BF8CF-C033-4320-86FF-159951E50763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4BF8CF-C033-4320-86FF-159951E50763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4BF8CF-C033-4320-86FF-159951E50763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4BF8CF-C033-4320-86FF-159951E50763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E796BCAE-1F93-49F8-A7EB-1EFDDC9A6C70} = {D55E4114-A068-48BE-A010-2A7530B13FAC}
+		{4E4BF8CF-C033-4320-86FF-159951E50763} = {D55E4114-A068-48BE-A010-2A7530B13FAC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A7C2AAB-A222-4101-A0CB-55CA0CBB4533}
